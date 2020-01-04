@@ -1,0 +1,6 @@
+.cube {
+	width: 100px;
+	height: 100px;
+	will-change: transform;
+	transition: all 0.2s;
+}
